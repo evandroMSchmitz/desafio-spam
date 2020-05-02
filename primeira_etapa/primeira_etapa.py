@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 def exercicio_01(dataframe, filename='grafico_barras'):
-    words_df = dataframe.iloc[:, 2:-4]
+    words_df = dataframe.iloc[:, 1:-4]
     words = {i: words_df[i].sum() for i in words_df}
     # limpar qualquer figura que exista
     plt.close()
