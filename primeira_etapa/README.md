@@ -20,4 +20,4 @@ Este arquivo aceita os seguintes argumentos:
 As atividades 1 e 2 geram um gráfico de barras e um gráfico de linha. O gráfico para a atividade 1 terá nome de _grafico_barras.png_ e o gráfico da atividade 2 terá o nome de _grafico_linhas.png_.
 
 ### Saídas no Console
-As atividades 3 e 4 geram saidas no console.
+As atividades 3 e 4 geram saídas no console.
